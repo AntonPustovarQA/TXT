@@ -1,1 +1,13 @@
-
+"ID" - ID
+"Summary" - Summary
+"Description" - Description
+"STR" - STR
+"AR" - AR
+"ER" -ER
+"Reproducibility" - Reproducibility
+"Severity" - Severity
+"Priority" - Priority
+ "Symptom" - Symptom
+ "Workaround" - Workaround
+ "Comments" - Comments
+ "Attachments" - Attachments
