@@ -1,0 +1,4 @@
+Testing API - "Postman" [Enter]
+Sniffers - "Charles" [Enter]
+Testing mobile - "Android Studio" [Enter]
+Coding - "Python" [Enter]
